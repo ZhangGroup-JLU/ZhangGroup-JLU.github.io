@@ -1,7 +1,7 @@
 ---
-title: "岩体结构与地质灾害实验室 - 科研项目"
+title: "吉林大学建设工程学院张文团队 - 科研项目"
 layout: textlay
-excerpt: "岩体结构与地质灾害实验室 at 吉林大学（朝阳校区）"
+excerpt: "建设工程学院张文团队 at 吉林大学（朝阳校区）"
 sitemap: false
 permalink: /research/
 ---
