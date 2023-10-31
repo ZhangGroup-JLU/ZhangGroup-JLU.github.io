@@ -1,7 +1,7 @@
 ---
-title: "岩体结构与地质灾害实验室 - 科研成员"
+title: "吉林大学建设工程学院张文团队 - 科研成员"
 layout: gridlay
-excerpt: "岩体结构与地质灾害实验室 -- 科研成员"
+excerpt: "吉林大学建设工程学院张文团队 -- 科研成员"
 sitemap: false
 permalink: /team/
 ---
@@ -129,4 +129,4 @@ permalink: /team/
 ---
 
 ## 技术支持
-请联系我们的实验室网站管理员Dr. Tengyue Li (Email: litengyue@jlu.edu.cn).
+请联系我们的团队网站管理员Dr. Tengyue Li (Email: litengyue@jlu.edu.cn).
