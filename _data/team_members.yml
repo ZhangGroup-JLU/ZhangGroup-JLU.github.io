@@ -94,6 +94,12 @@
   url: ZihanZhao
   group: 1
 
+- name: 王小艳
+  photo: XiaoyanWang.jpg
+  info: 博士研究生
+  url: XiaoyanWang
+  group: 1
+
 - name: 董文川
   photo: WenchuanDong.jpg
   info: 硕士研究生
