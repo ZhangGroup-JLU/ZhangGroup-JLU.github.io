@@ -85,7 +85,7 @@
 - name: 许广璐
   photo: GuangluXu.jpg
   info: 博士研究生
-  url: GuangluXu
+  url: https://ai-and-love.github.io/JLU-xgl/
   group: 1
 
 - name: 赵子涵
@@ -133,7 +133,7 @@
 - name: 吴丹阳
   photo: DangyangWu.jpg
   info: 硕士研究生
-  url: wudanyang
+  url: https://dywu22.github.io/JLU-wdy/
   group: 9
 
 - name: 王振飞
@@ -145,7 +145,7 @@
 - name: 柴承星
   photo: ChengxingChai.jpg
   info: 硕士研究生
-  url: ChengxingChai
+  url: https://chaichengxing.github.io/JLU-ccx/
   group: 9
   
 - name: 陈晓雪
