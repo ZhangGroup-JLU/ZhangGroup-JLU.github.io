@@ -31,7 +31,7 @@
 - name: 王佳
   photo: JiaWang.jpeg
   info: 博士研究生
-  url: wangjia
+  url: https://allyless.github.io/JLU-wj/
   group: 1
 
 - name: 王硕男
@@ -43,7 +43,7 @@
 - name: 尹韩
   photo: HanYin1.jpeg
   info: 博士研究生
-  url: yinhan
+  url: https://jluyh.github.io/JLU-yh/
   group: 1
   
 - name: 李万堃
@@ -73,7 +73,7 @@
 - name: 伟明
   photo: MingWei.jpeg
   info: 博士研究生
-  url: weiming
+  url: https://weimingjlu.github.io/JLU-wm/
   group: 1
   
 - name: 刘庆
