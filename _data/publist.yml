@@ -19,7 +19,7 @@
   news2: 
   
 - title: "Mass‐Wasting‐Inferred Dramatic Variability of 130,000‐Year Indian Summer Monsoon Intensity From Deposits in the Southeast Tibetan Plateau."
-  image: Mass‐Wasting‐Inferred Dramatic Variability.jpg
+  image: Mass‐Wasting‐Inferred Dramatic Variability.png
   description: 
   authors: 
   link:
@@ -28,13 +28,13 @@
   highlight: 1
   news2: 
 
-- title: "MARK4 controls ischaemic heart failure through microtubule detyrosination"
-  image: yu_nature.png
+- title: "Multi-dimensional size effects and representative elements for non-persistent fractured rock masses: A perspective of geometric parameter distribution. "
+  image: Multi-dimensional size effects.png
   description: 
   authors: 
   link:
-    url: https://www.nature.com/articles/s41586-021-03573-5.pdf
-    display:  Yu et al. Nature (2021). [[Source Code](https://github.com/zhaoaite/dynamic_thresholding_algorithm)]
+    url: https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Multi-dimensional+size+effects+and+representative+elements+for+non-persistent+fractured+rock+masses%3A+A+perspective+of+geometric+parameter+distribution.+&btnG=
+    display:  Wang et al. Journal of Rock Mechanics and Geotechnical Engineering, 2022.
   highlight: 1
   news2: 
 
