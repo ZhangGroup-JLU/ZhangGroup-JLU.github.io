@@ -11,7 +11,7 @@ permalink: /publications/
 
 ---
 
-## Featured
+## 迄今，共发表60余篇SCI与EI检索论文，具体如下：
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
