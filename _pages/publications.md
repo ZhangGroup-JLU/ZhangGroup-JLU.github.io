@@ -3,7 +3,7 @@ title: "吉林大学建设工程学院张文团队 - 科研成果"
 layout: gridlay
 excerpt: "建设工程学院张文团队 at 吉林大学（朝阳校区）."
 sitemap: false
-permalink: /publications/
+permalink: /publist/
 ---
 
 
