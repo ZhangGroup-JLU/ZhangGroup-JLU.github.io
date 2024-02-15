@@ -1,10 +1,10 @@
-- title: "DGNet: Distribution Guided Efficient Learning for Oil Spill Image Segmentation"
+- title: "Evolution of sediment after a decade of the Wenchuan earthquake a case study in a protected debris flow catchment in Wenchuan County, China."
   image: chen_TGARS_2023.png
   description: 
   authors: 
   link:
-    url: https://arxiv.org/pdf/2301.01202.pdf
-    display:  Chen et al. IEEE Trans. on Geoscience and Remote Sensing. (2023). [[Source Code](https://github.com/oilspillimageseg/dgsegmentation)]
+    url: https://link.springer.com/article/10.1007/s11440-022-01789-x#Fig1
+    display:  Wen Zhang*, Junqi Chen, Junhua Ma, Chen Cao, Han Yin, Jia Wang, Bo Han.Acta Geotechnica, 2023: 1-22.
   highlight: 1
   news2: 
 
