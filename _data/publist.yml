@@ -88,23 +88,22 @@
   highlight: 1
   news2: 
 
-- title: "Perceptual underwater image enhancement with deep learning and physical priors"
-  image: chen2021.png
+- title: "Stability evaluation and potential failure process of rock slopes characterized by non-persistent fractures. "
+  image: Stability evaluation.png
   description: 
   authors: 
   link:
-    url: https://ieeexplore.ieee.org/document/9245532
-    display: Chen et al. IEEE Trans. on Circuits and Systems for Video Technology (2021). [[Source Code](https://github.com/LongChenCV/HybridDetectionGAN)]
+    url: https://nhess.copernicus.org/articles/20/2921/2020/
+    display: Zhang W. et al. Natural Hazards and Earth System Sciences, 2020.
   highlight: 1
   news2: 
 
-- title: "Component-based feature saliency for clustering"
-  image: hong2021.png
+- title: "Determination of statistical discontinuity persistence for a rock mass characterized by non-persistent fractures. "
+  image: Determination of statistical.png
   description: 
   authors: 
   link:
-    url: https://ieeexplore.ieee.org/document/8809812
-    display:  Hong et al.  IEEE Trans. on Knowledge and Data Engineering (2021). [[Source Code](https://github.com/XHongs/Component-based-Feature-Saliency-for-Clustering)]
-  highlight: 1
+    url: https://www.sciencedirect.com/science/article/pii/S1365160918311213
+    display:  Zhang W. et al.  International Journal of Rock Mechanics and Mining Sciences, 2020.
   news2: 
 
