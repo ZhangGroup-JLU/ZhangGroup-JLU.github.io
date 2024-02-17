@@ -1,7 +1,7 @@
 ---
-title: "吉林大学建设工程学院张文团队 - 科研成员"
+title: "吉林大学建设工程学院张文教授团队 - 科研成员"
 layout: gridlay
-excerpt: "吉林大学建设工程学院张文团队 -- 科研成员"
+excerpt: "吉林大学建设工程学院张文教授团队 -- 科研成员"
 sitemap: false
 permalink: /team/
 ---
