@@ -1,5 +1,5 @@
 ---
-title: "吉林大学建设工程学院张文团队 - 联系我们"
+title: "吉林大学建设工程学院张文教授团队 - 联系我们"
 layout: textlay
 excerpt: "Contact."
 sitemap: false
@@ -10,7 +10,7 @@ permalink: /contact/
 
 张文教授（邮件：zhang_wen@jlu.edu.cn，电话：0431-88502337）
 
-吉林大学建设工程学院张文团队位于吉林省长春市朝阳区西民主大街938号吉林大学（朝阳校区）建设工程学院水工楼([百度地图](https://map.baidu.com/poi/吉林大学(朝阳校区)-水工楼/@13949784.315,5418361.11,19z?uid=020d30e30175766aa3acc4db&ugc_type=3&ugc_ver=1&device_ratio=2&compat=1&pcevaname=pc4.1&querytype=detailConInfo&da_src=shareurl)):
+吉林大学建设工程学院张文教授团队位于吉林省长春市朝阳区西民主大街938号吉林大学（朝阳校区）建设工程学院水工楼([百度地图](https://map.baidu.com/poi/吉林大学(朝阳校区)-水工楼/@13949784.315,5418361.11,19z?uid=020d30e30175766aa3acc4db&ugc_type=3&ugc_ver=1&device_ratio=2&compat=1&pcevaname=pc4.1&querytype=detailConInfo&da_src=shareurl)):
 
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/contactpic/image2.jpeg" style="width: 600px">
