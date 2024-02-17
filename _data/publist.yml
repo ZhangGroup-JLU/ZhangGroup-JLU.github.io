@@ -4,7 +4,7 @@
   authors: 
   link:
     url: https://link.springer.com/article/10.1007/s11440-022-01789-x#Fig1
-    display: Zhang et al. Acta Geotechnica, 2023.
+    display: Zhang W. et al. Acta Geotechnica, 2023.
   highlight: 1
   news2: 
 
@@ -14,7 +14,7 @@
   authors: 
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0013795222002927
-    display: Zhang et al. Engineering Geology, 2022.
+    display: Zhang W. et al. Engineering Geology, 2022.
   highlight: 1
   news2: 
   
@@ -24,7 +24,7 @@
   authors: 
   link:
     url: Mass‐Wasting‐Inferred Dramatic Variability of 130,000‐Year Indian Summer Monsoon Intensity From Deposits in the Southeast Tibetan Plateau.
-    display: Zhang et al. Geophysical Research Letters, 2022, 49.
+    display: Zhang W. et al. Geophysical Research Letters, 2022, 49.
   highlight: 1
   news2: 
 
@@ -34,7 +34,7 @@
   authors: 
   link:
     url: https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Multi-dimensional+size+effects+and+representative+elements+for+non-persistent+fractured+rock+masses%3A+A+perspective+of+geometric+parameter+distribution.+&btnG=
-    display:  Wang et al. Journal of Rock Mechanics and Geotechnical Engineering, 2022.
+    display:  Wang J. et al. Journal of Rock Mechanics and Geotechnical Engineering, 2022.
   highlight: 1
   news2: 
 
@@ -44,7 +44,7 @@
   authors: 
   link:
     url: https://www.sciencedirect.com/science/article/pii/S1674775521001360
-    display:  Chen et al. Journal of Rock Mechanics and Geotechnical Engineering, 2021.
+    display:  Chen D. et al. Journal of Rock Mechanics and Geotechnical Engineering, 2021.
   highlight: 1
   news2: 
 
@@ -54,38 +54,37 @@
   authors: 
   link:
     url: https://www.sciencedirect.com/science/article/abs/pii/S0013795221002337
-    display: Cao et al. Engineering Geology, 2021.
+    display: Cao C. et al. Engineering Geology, 2021.
   highlight: 1
   news2: 
 
-- title: "CANet: Context aware network for 3D brain tumor segmentation"
-  image: Liu2021.png
+- title: "Study on Representative Volume Elements Considering Inhomogeneity and Anisotropy of Rock Masses Characterised by Non-persistent Fractures."
+  image: Study on Representative.png
   description: 
   authors: 
   link:
-    url: https://ieeexplore.ieee.org/document/9378564/authors#authors
-    display:  Liu et al. IEEE Trans. on Medical Imaging (2021). [[Source Code](https://github.com/ZhihuaLiuEd/canetbrats)]
+    url: https://link.springer.com/article/10.1007/s00603-021-02546-4
+    display:  Ma W. et al. Rock Mechanics and Rock Engineering, 2021.
   highlight: 1
   news2: 
 
-- title: "Multimodal gait recognition for neurodegenerative diseases"
-  image: zhao2021.png
+- title: "Simplified 3D modelling method and its uncertainty analysis for adit fractures collected within short sampling windows."
+  image: Simplified 3D modelling.png
   description: 
   authors: 
   link:
-    url: https://ieeexplore.ieee.org/document/9376702
-    display:  Zhao et al. IEEE Trans. on Cybernetics (2021). [[Source Code](https://github.com/zhaoaite/CorrMNN)]
-  highlight: 1
+    url: https://pubs.geoscienceworld.org/qjegh/article-abstract/54/4/qjegh2020-096/596169/Simplified-3D-modelling-method-and-its-uncertainty?redirectedFrom=fulltext
+    display:  Zhang W. et al. Quarterly Journal of Engineering Geology and Hydrogeology, 2021.
   highlight: 1
   news2: 
 
-- title: "Enhanced feature pyramid network with deep semantic embedding for remote sensing scene classification"
-  image: wangxin2021.png
+- title: "Characteristics of the Residual Surface Deformation of Multiple Abandoned Mined-Out Areas Based on a Field Investigation and SBAS-InSAR: A Case Study in Jilin, China. "
+  image: Characteristics of the Residual.png
   description: 
   authors: 
   link:
-    url: https://ieeexplore.ieee.org/document/9314283
-    display:  Wang et al. IEEE Trans. on Geoscience and Remote Sensing (2021). [[Source Code](https://github.com/WangXin81/EFPN-DSE-TDFFNet-Published-in-IEEE-TGRS)]
+    url: https://www.mdpi.com/2072-4292/12/22/3752
+    display:  Chen D. et al. Remote Sensing, 2020.
   highlight: 1
   news2: 
 
