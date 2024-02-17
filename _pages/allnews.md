@@ -1,7 +1,7 @@
 ---
-title: "吉林大学建设工程学院张文团队 - 新闻"
+title: "吉林大学建设工程学院张文教授团队 - 新闻"
 layout: textlay
-excerpt: "建设工程学院张文团队 at 吉林大学."
+excerpt: "建设工程学院张文教授团队 at 吉林大学."
 sitemap: false
 permalink: /allnews.html
 ---
