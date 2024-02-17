@@ -38,23 +38,23 @@
   highlight: 1
   news2: 
 
-- title: "Structured Context Enhancement Network for Mouse Pose Estimation"
-  image: zfxTCSVT2021.png
+- title: "An Analytical Solution of the Equivalent Elastic Modulus Considering the Confining Stress and Its Variables Sensitivity Analysis for Fractured Rock Masses. "
+  image: An Analytical Solution.png
   description: 
   authors: 
   link:
-    url: https://ieeexplore.ieee.org/document/9492104
-    display:  Zhou et al. IEEE Trans. on Circuits and Systems for Video Technology (2021). [[Source Code](https://github.com/FeixiangZhou/GM-SCENet)]
+    url: https://www.sciencedirect.com/science/article/pii/S1674775521001360
+    display:  Chen et al. Journal of Rock Mechanics and Geotechnical Engineering, 2021.
   highlight: 1
   news2: 
 
-- title: "Multi-view mouse social behaviour recognition with deep graphical model"
-  image: Jiang2021.png
+- title: "Quantitative estimation of debris flow source materials by integrating multi-source data: A case study. "
+  image: Quantitative estimation.png
   description: 
   authors: 
   link:
-    url: https://ieeexplore.ieee.org/document/9444134
-    display: Jiang et al. IEEE Trans. on Image Processing (2021). [[Source Code](https://github.com/ZhehengJiang/MV-LADDM)]
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0013795221002337
+    display: Cao et al. Engineering Geology, 2021.
   highlight: 1
   news2: 
 
