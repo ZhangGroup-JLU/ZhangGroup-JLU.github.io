@@ -227,3 +227,43 @@
     display:  Wang Q. et al.  Arab J Geosci, 2016.
   highlight: 1
   news2: 
+  
+- title: "Velocity and runout determination of a debris flow based on energy conservation: the Dongwopu debris flow in Tianjin, China.   "
+  image: Velocity and runout.png
+  description: 
+  authors: 
+  link:
+    url: https://www.lyellcollection.org/doi/abs/10.1144/qjegh2014-036
+    display: Zhang W. et al. Quarterly Journal of Engineering Geology and Hydrogeology, 2015.
+  highlight: 1
+  news2: 
+
+- title: "Grain-Size Analysis of Debris Flow Alluvial Fans in Panxi Area along Jinsha River, China.  "
+  image: GrainSize Analysis.png
+  description: 
+  authors: 
+  link:
+    url: https://www.mdpi.com/2071-1050/7/11/15219
+    display: Zhang W. et al.  Sustainability, 2015.
+  highlight: 1
+  news2: 
+  
+- title: "Hazard Assessment of Debris Flows in the Reservoir Region of Wudongde Hydropower Station in China. "
+  image: Hazard Assessment.png
+  description: 
+  authors: 
+  link:
+    url: https://www.mdpi.com/2071-1050/7/11/15099
+    display: Niu C. et al. Sustainability, 2015.
+  highlight: 1
+  news2: 
+
+- title: "Determination of RVE in the Consideration of the Spatial Effect. "
+  image: Determination of RVE in.png
+  description: 
+  authors: 
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S136516091300052X
+    display: Zhang W. et al. International Journal of Rock Mechanics and Mining Sciences, 2013.
+  highlight: 1
+  news2: 
