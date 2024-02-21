@@ -286,6 +286,7 @@
     url: https://www.sciencedirect.com/science/article/pii/S0886779812002003
     display: Zhang W. et al. Tunnelling and Underground Space Technology, 2013.
   highlight: 1
+  news2: 
     
 - title: "Analysis of RVE size based on three-dimensional fracture numerical network modeling and stochastic mathematics.  "
   image: Analysis of RVE.png
@@ -305,6 +306,7 @@
     url: https://link.springer.com/article/10.1007/s11431-012-5129-6
     display: Zhang W. et al. SCIENCE CHINA Technological Sciences, 2013.
   highlight: 1
+  news2: 
       
 - title: "Investigation of RQD variation with scanline length and the optimal threshold based on three-dimensional fracture network modeling. "
   image: Investigation of RQD variation.png
@@ -324,6 +326,7 @@
     url: https://www.sciencedirect.com/science/article/pii/S1365160912000354
     display: Zhang W. et al. International Journal of Rock Mechanics and Mining Sciences, 2012.
   highlight: 1
+  news2: 
         
 - title: "Determination of geometrical and structural representative volume elements at the Baihetan Dam site.  "
   image: Determination of geometrical and.png
@@ -343,6 +346,7 @@
     url: https://link.springer.com/article/10.1007/s11069-010-9680-9
     display: Zhang W. et al. Natural Hazards, 2011.
   highlight: 1
+  news2: 
           
 - title: "高陡岩质斜坡坡表实景模型构建与岩体结构面自动解译方法及平台研发"
   image: ptyf.png
@@ -362,6 +366,7 @@
     url: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://www.dsjyj.com.cn/dzdqs-data/jeg/2021/5/PDF/gcdzxb-29-5-1460.pdf
     display: 孙琦, 张文, 赵云鹏, 等. 工程地质学报, 2021.
   highlight: 1
+  news2: 
           
 - title: "基于Dijkstra算法的岩质边坡最危险滑动面搜索"
   image: hdmss.png
@@ -369,7 +374,7 @@
   authors: 
   link:
     url: https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=10049665&AN=153799526&h=HjdC2y4hFKUtF2e2mnXeJjxy4kLkWnG%2BarB6f91JdB8mOz%2FUNMPDbEguYzYUdHn%2BozLsLpwOejy4dESb2bcvXw%3D%3D&crl=c
-    display: 赵云鹏, 张文, 孙, 等. 2021年全国工程地质学术年会.吉林大学建设工程学院，2021.
+    display: 赵云鹏, 张文, 孙琦, 等. 2021年全国工程地质学术年会.吉林大学建设工程学院，2021.
   highlight: 1
   news2: 
 
@@ -381,3 +386,94 @@
     url: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://www.dsjyj.com.cn/dzdqs-data/jeg/2020/2/PDF/gcdzxb-28-2-221.pdf
     display: 张文, 韩博, 孙昊林, 等. 工程地质学报, 2020.
   highlight: 1
+  news2: 
+          
+- title: "基于混合聚类的岩体结构面优势分组方法"
+  image: fzff.png
+  description: 
+  authors: 
+  link:
+    url: 
+    display: 许扬, 张文, 符锐, 等. 世界地质, 2020.
+  highlight: 1
+  news2: 
+
+- title: "基于FLAC3D的煤矿采空区变形数值模拟分析"
+  image: szmmfx.png
+  description: 
+  authors: 
+  link:
+    url: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://www.dsjyj.com.cn/dzdqs-data/jeg/2019/s1/PDF/2019s146.pdf
+    display: 陈怀玉, 张文, 成武. 工程地质学报, 2019.
+  highlight: 1
+  news2: 
+            
+- title: "基于三维裂隙网络RQD的确定及最佳测线数量的研究"
+  image: sldyj.png
+  description: 
+  authors: 
+  link:
+    url: 
+    display: 张文, 陈剑平, 牛岑岑, 等. 岩石工程学报, 2013.
+  highlight: 1
+  news2: 
+
+- title: "基于裂隙频率的裂隙岩质边坡最危险滑动面的确定"
+  image: hdmqd.png
+  description: 
+  authors: 
+  link:
+    url: 
+    display: 张文, 陈剑平, 王清. 第九届全国工程地质大会论文集. 吉林大学建设工程学院, 2012.
+  highlight: 1
+  news2: 
+              
+- title: "基于三维裂隙网络RQD的确定及最佳测线数量的研究"
+  image: sldyj.png
+  description: 
+  authors: 
+  link:
+    url: 
+    display: 张文, 陈剑平, 牛岑岑, 等. 岩石工程学报, 2013.
+  highlight: 1
+  news2: 
+
+- title: "基于裂隙频率的裂隙岩质边坡最危险滑动面的确定"
+  image: hdmqd.png
+  description: 
+  authors: 
+  link:
+    url: 
+    display: 张文, 陈剑平, 王清. 第九届全国工程地质大会论文集. 吉林大学建设工程学院, 2012.
+  highlight: 1
+  news2: 
+            
+- title: "基于三维裂隙网络的RQD尺寸效应与空间效应的研究"
+  image: kjxy.png
+  description: 
+  authors: 
+  link:
+    url: 
+    display: 张文, 陈剑平, 苑晓青, 等. 岩石力学与工程学报, 2012.
+  highlight: 1
+  news2: 
+
+- title: "基于裂隙频率的裂隙岩质边坡最危险滑动面的确定"
+  image: hdmqd.png
+  description: 
+  authors: 
+  link:
+    url: 
+    display: 张文, 陈剑平, 刘存合, 等. 岩石工程学报, 2011.
+  highlight: 1
+  news2: 
+  
+- title: "基于主成分分析的FCM法在泥石流分类中的应用"
+  image: zcffx.png
+  description: 
+  authors: 
+  link:
+    url: 
+    display: 张文, 陈剑平, 秦胜伍, 等. 吉林大学学报地球科学版, 2010.
+  highlight: 1
+  news2: 
