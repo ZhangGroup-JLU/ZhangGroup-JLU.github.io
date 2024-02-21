@@ -147,3 +147,43 @@
     display:  Chen D. et al.  Sustainability, 2020.
   highlight: 1
   news2: 
+
+- title: "Geospatial Analysis of Mass-Wasting Susceptibility of Four Small Catchments in Mountainous Area of Miyun County, Beijing. "
+  image: Geospatial Analysis.png
+  description: 
+  authors: 
+  link:
+    url: https://www.mdpi.com/1660-4601/16/15/2801
+    display: Cao C. et al. International Journal of Environmental Research and Public Health, 2019.
+  highlight: 1
+  news2: 
+
+- title: "Determination of representative volume element considering the probability that a sample can represent the investigated rock mass at Baihetan Dam site, China. "
+  image: Determination of.png
+  description: 
+  authors: 
+  link:
+    url: https://link.springer.com/article/10.1007/s00603-017-1248-5
+    display:  Zhang W. et al.  Rock Mechanics and Rock Engineering, 2017.
+  highlight: 1
+  news2: 
+
+- title: "Determining the critical slip surface of a fractured rock slope considering preexisting fractures and statistical methodology. "
+  image: Determining the critical.png
+  description: 
+  authors: 
+  link:
+    url: https://link.springer.com/article/10.1007/s10346-017-0800-4
+    display: Zhang W. et al. Landslides, 2017.
+  highlight: 1
+  news2: 
+
+- title: "Experimental study of the stabilization effect of cement on contaminated soil."
+  image: Experimental study.png
+  description: 
+  authors: 
+  link:
+    url: https://www.lyellcollection.org/doi/abs/10.1144/qjegh2016-115
+    display:  Chen H. et al.  Quarterly Journal of Engineering Geology and Hydrogeology, 2017.
+  highlight: 1
+  news2: 
