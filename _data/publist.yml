@@ -343,4 +343,41 @@
     url: https://link.springer.com/article/10.1007/s11069-010-9680-9
     display: Zhang W. et al. Natural Hazards, 2011.
   highlight: 1
-  
+          
+- title: "高陡岩质斜坡坡表实景模型构建与岩体结构面自动解译方法及平台研发"
+  image: ptyf.png
+  description: 
+  authors: 
+  link:
+    url: https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=16726561&AN=161973074&h=LoX%2Bq9gSLwlXQBZ%2FFZmjnIIKX1PuWt7sFEPN%2FMi8JJ8JjyyGvwi6bF2q3Ls4Kg1QmNjHbsuWdOeCAq%2BrbP9yAw%3D%3D&crl=c
+    display: 董文川, 张文, 李腾跃, 等. 地球科学与环境学报, 2022.
+  highlight: 1
+  news2: 
+
+- title: "高陡岩质斜坡结构面的无人机贴近采集与粗糙度分析"
+  image: ccdfx.png
+  description: 
+  authors: 
+  link:
+    url: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://www.dsjyj.com.cn/dzdqs-data/jeg/2021/5/PDF/gcdzxb-29-5-1460.pdf
+    display: 孙琦, 张文, 赵云鹏, 等. 工程地质学报, 2021.
+  highlight: 1
+          
+- title: "基于Dijkstra算法的岩质边坡最危险滑动面搜索"
+  image: hdmss.png
+  description: 
+  authors: 
+  link:
+    url: https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=10049665&AN=153799526&h=HjdC2y4hFKUtF2e2mnXeJjxy4kLkWnG%2BarB6f91JdB8mOz%2FUNMPDbEguYzYUdHn%2BozLsLpwOejy4dESb2bcvXw%3D%3D&crl=c
+    display: 赵云鹏, 张文, 孙, 等. 2021年全国工程地质学术年会.吉林大学建设工程学院，2021.
+  highlight: 1
+  news2: 
+
+- title: "高陡岩质斜坡的结构面非接触式采集技术与三维裂隙网络模拟研究"
+  image: mnyj高陡岩质斜坡的结构面非接触式采集技术与三维裂隙网络模拟研究..png
+  description: 
+  authors: 
+  link:
+    url: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://www.dsjyj.com.cn/dzdqs-data/jeg/2020/2/PDF/gcdzxb-28-2-221.pdf
+    display: 张文, 韩博, 孙昊林, 等. 工程地质学报, 2020.
+  highlight: 1
