@@ -305,4 +305,42 @@
     url: https://link.springer.com/article/10.1007/s11431-012-5129-6
     display: Zhang W. et al. SCIENCE CHINA Technological Sciences, 2013.
   highlight: 1
+      
+- title: "Investigation of RQD variation with scanline length and the optimal threshold based on three-dimensional fracture network modeling. "
+  image: Investigation of RQD variation.png
+  description: 
+  authors: 
+  link:
+    url: https://link.springer.com/article/10.1007/s11431-013-5132-6
+    display: Zhang W. et al. SCIENCE CHINA Technological Sciences, 2013.
+  highlight: 1
+  news2: 
+
+- title: "Determination of the optimal threshold and length measurements for RQD calculations.  "
+  image: Determination of the optimal.png
+  description: 
+  authors: 
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S1365160912000354
+    display: Zhang W. et al. International Journal of Rock Mechanics and Mining Sciences, 2012.
+  highlight: 1
+        
+- title: "Determination of geometrical and structural representative volume elements at the Baihetan Dam site.  "
+  image: Determination of geometrical and.png
+  description: 
+  authors: 
+  link:
+    url: https://link.springer.com/article/10.1007/s00603-011-0191-0
+    display: Zhang W. et al. Rock Mechanics and Rock Engineering, 2012.
+  highlight: 1
+  news2: 
+
+- title: "Comprehensive hazard assessment and protection of debris flows along Jinsha River close to the Wudongde dam site in China. "
+  image: Comprehensive hazard assessment.png
+  description: 
+  authors: 
+  link:
+    url: https://link.springer.com/article/10.1007/s11069-010-9680-9
+    display: Zhang W. et al. Natural Hazards, 2011.
+  highlight: 1
   
