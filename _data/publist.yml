@@ -108,3 +108,42 @@
   highlight: 1
   news2: 
 
+- title: "Two-Dimensional Discrepancies in Fracture Geometric Factors and Connectivity Between Field-Collected and Stochastically Modeled DFNs: A Case Study of Sluice Foundation Rock Mass in Datengxia, China.  "
+  image: TwoDimensional.png
+  description: 
+  authors: 
+  link:
+    url: https://link.springer.com/article/10.1007/s00603-019-02029-7
+    display: Zhang W. et al.  Rock Mechanics and Rock Engineering, 2020.
+  highlight: 1
+  news2: 
+
+- title: "A New Method for Three-Dimensional Fracture Network Modelling for Trace Data Collected in a Large Sampling Window.  "
+  image: A New Method.png
+  description: 
+  authors: 
+  link:
+    url: https://link.springer.com/article/10.1007/s00603-019-01969-4
+    display:  Nie Z. et al.  Rock Mechanics and Rock Engineering, 2020.
+  highlight: 1
+  news2: 
+
+- title: "Determination of representative volume element with consideration of linear anisotropy using geostatistics approach. "
+  image: Determination of representative.png
+  description: 
+  authors: 
+  link:
+    url: https://www.tandfonline.com/doi/abs/10.1080/19648189.2020.1815588
+    display: Zhang W. et al. European Journal of Environmental and Civil Engineering, 2020.
+  highlight: 1
+  news2: 
+
+- title: "Buckling Failure Mechanism of a Rock Dam Foundation Fractured by Gentle Through-Going and Steep Structural Discontinuities. "
+  image: Buckling Failure.png
+  description: 
+  authors: 
+  link:
+    url: https://www.mdpi.com/2071-1050/12/13/5426
+    display:  Chen D. et al.  Sustainability, 2020.
+  highlight: 1
+  news2: 
