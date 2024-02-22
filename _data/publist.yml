@@ -458,7 +458,8 @@
   highlight: 1
   news2: 
 
-- title: "专利：一种收集滑坡释光测试土样的装置"
+- title: "专利：一种收集滑坡释光测试土样的装置."
+  image: hpsg.png
   description: 
   authors: 
   link:
@@ -468,10 +469,91 @@
   news2: 
   
 - title: "专利：一种泥石流运动与堆积过程模拟实验系统."
+  image: nslyd.png
   description: 
   authors: 
   link:
     url: https://xueshu.baidu.com/usercenter/paper/show?paperid=1t600p804m690640u12a0mk0t2222144&site=xueshu_se
     display: 张文, 陈剑平, 牛岑岑, 等. 2015.11.12, 中国, 201510768066.X  （已授权）
+  highlight: 1
+  news2: 
+
+- title: "专利：一种利用超声波监测危岩体崩塌的装置."
+  image: csbjc.png
+  description: 
+  authors: 
+  link:
+    url: https://xueshu.baidu.com/usercenter/paper/show?paperid=fb0c968947bde097abfd583fa402b0fc&site=xueshu_se&hitarticle=1
+    display: 张文, 陈剑平, 王清, 等. 2012.12.24, 中国, ZL201210566779.4  （已授权）
+  highlight: 1
+  news2: 
+  
+- title: "专利：一种利用激光位移传感器监测危岩体崩塌的装置."
+  image: jgwyjc.png
+  description: 
+  authors: 
+  link:
+    url: https://xueshu.baidu.com/usercenter/paper/show?paperid=135j04a0vc540pg0yq700tq0au740796&site=xueshu_se&hitarticle=1
+    display: 张文, 陈剑平, 王清, 等. 2012.12.24, 中国, ZL201210567021.2  （已授权）
+  highlight: 1
+  news2: 
+  
+- title: "专利：一种岩体结构面原位信息采集的自动化装置."
+  image: jgmywxx.png
+  description: 
+  authors: 
+  link:
+    url: https://xueshu.baidu.com/usercenter/paper/show?paperid=13500vd0ju350am0vn1d06t0xt425456&site=xueshu_se&hitarticle=1
+    display: 张文, 王乐, 马智法, 等. 2017.3.8, 中国, ZL201720217890.0
+  highlight: 1
+  news2: 
+  
+- title: "专利：基于振动仪与成像设备实时监测预报泥石流的装置. "
+  image: zdyycxsb.png
+  description: 
+  authors: 
+  link:
+    url: https://xueshu.baidu.com/usercenter/paper/show?paperid=1v4n0830sx2d0gc0206q0xr0wn134729&site=xueshu_se&hitarticle=1
+    display: 张文, 陈剑平, 牛岑岑, 等. 2015.11.9, 中国, ZL201520883124.9
+  highlight: 1
+  news2: 
+    
+- title: "专利：一种基于多个拉线式位移传感器监测滑坡变形参数的装置. "
+  image: dglxs.png
+  description: 
+  authors: 
+  link:
+    url: https://kns.cnki.net/kcms2/article/abstract?v=yXT3uqWUX_8BU8txiCraeHsbA88kfHijJQKcV3Izu0POFWj2RxIlA2eaN4iDNWDwRLW4q7nakreqaKUwzd0SbqnvNNmfTq_73IEBXHUYeXmLT5OMp2FPqNYXS9kRfi12&uniplatform=NZKPT&flag=copy
+    display: 张文, 陈剑平, 王清, 等. 2015.12.2, 中国, ZL201520981109.8
+  highlight: 1
+  news2: 
+  
+- title: "专利：一种模拟岩体楔形体滑动的装置. "
+  image: mnytxxt.png
+  description: 
+  authors: 
+  link:
+    url: https://xueshu.baidu.com/usercenter/paper/show?paperid=125v08908j4m0jg03y0208p0hb451598&site=xueshu_se&hitarticle=1
+    display: 张文, 许扬, 马智法,  等. 2018.1.10, 中国, 201810023476.5
+  highlight: 1
+  news2: 
+      
+- title: "专利：分节式弹性附支可回收锚杆. "
+  image: fbstxfz.png
+  description: 
+  authors: 
+  link:
+    url: https://xueshu.baidu.com/usercenter/paper/show?paperid=1x5k06b0xq4102k07w2u0ak0n3410138&site=xueshu_se&hitarticle=1
+    display: 张文, 陈怀玉, 陈东辉, 等. 2017.12.21, 中国, 201711395993.7
+  highlight: 1
+  news2: 
+  
+- title: "专利：一种适用于岩体大型结构系统的自钻进中空灌浆锚杆.  "
+  image: yzytdxjgm.png
+  description: 
+  authors: 
+  link:
+    url: https://kns.cnki.net/kcms2/article/abstract?v=yXT3uqWUX_-fCtWtRQvTBgRCrNQGbvzZ6EjKuKsHT8ZYqo1_y6xE-VrqR38vYYx8yXUETGlkeRWjKb78hSUKm5ulIN7u3ChL4nz2R338DROuUvZTdT4Ywb0_ARCMYbFg&uniplatform=NZKPT&flag=copy
+    display: 张文, 兰志广, 陈东辉.  2017.12.8, 中国, 201711296947.1
   highlight: 1
   news2: 
