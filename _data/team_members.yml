@@ -61,7 +61,7 @@
 - name: 赵潇涵
   photo: XiaohanZhao.jpeg
   info: 博士研究生
-  url: zhaoxiaohan
+  url: https://tiedmann.github.io/JLU-zxh/
   group: 1
   
 - name: 韩佳利
@@ -91,7 +91,7 @@
 - name: 赵子涵
   photo: ZihanZhao11.jpg
   info: 博士研究生
-  url: ZihanZhao
+  url: https://zzhshuai1207.github.io/JLU-zzh/
   group: 1
 
 - name: 王小艳
@@ -109,7 +109,7 @@
 - name: 蓝升
   photo: ShengLan.jpeg
   info: 硕士研究生
-  url: lansheng
+  url: https://lansiszzz.github.io/JLU-ls/
   group: 9
  
 - name: 潘晓娟
@@ -127,7 +127,7 @@
 - name: 张涵
   photo: HanZhang.jpeg
   info: 硕士研究生
-  url: zhanghan
+  url: https://kejiking.github.io/JLU-zh/
   group: 9
  
 - name: 吴丹阳
