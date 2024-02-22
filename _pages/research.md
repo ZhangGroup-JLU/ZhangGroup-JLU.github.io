@@ -20,6 +20,5 @@ permalink: /research/
 
 {% endraw %}
 
-{% assign reference_types = "scientists|students" | split: "|" %}
 
 
