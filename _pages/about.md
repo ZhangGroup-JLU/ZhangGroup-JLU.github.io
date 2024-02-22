@@ -1,7 +1,7 @@
 ---
 title: "吉林大学建设工程学院张文教授团队 - 关于"
 layout: textlay
-excerpt: "吉林大学建设工程学院张文教授团队 -- 关于"
+excerpt: "建设工程学院张文教授团队 -- 关于"
 sitemap: false
 permalink: /about/
 ---
