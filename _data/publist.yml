@@ -459,9 +459,10 @@
   news2: 
 
 - title: "专利成果与技术"
+  highlight: 1
+  news2: 
 
 - title: "一种收集滑坡释光测试土样的装置"
-  image: 
   description: 
   authors: 
   link:
@@ -471,7 +472,6 @@
   news2: 
   
 - title: "一种泥石流运动与堆积过程模拟实验系统."
-  image: 
   description: 
   authors: 
   link:
