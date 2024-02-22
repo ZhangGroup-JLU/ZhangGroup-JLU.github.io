@@ -22,8 +22,4 @@ permalink: /research/
 
 {% assign reference_types = "scientists|students" | split: "|" %}
 
-{% for type in reference_types %}
-
-{% if type == 'scientists' %}
-
 
