@@ -1,5 +1,6 @@
 ---
 title: "吉林大学建设工程学院张文教授团队 - 科研项目"
+layout: gridlay
 excerpt: "建设工程学院张文教授团队 at 吉林大学（朝阳校区）"
 sitemap: false
 permalink: /research/
