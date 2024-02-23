@@ -13,7 +13,7 @@
 - name: 韩博
   photo: BoHan.jpg
   info: 助理工程师
-  url: hanbo
+  url: https://hanbohb.github.io/JLU-hb/
   group: 0
 
 - name: 聂振邦
@@ -49,13 +49,13 @@
 - name: 李万堃
   photo: WankunLi.jpeg
   info: 博士研究生
-  url:
+  url: https://liwk21.github.io/JLU-lwk/
   group: 1
   
 - name: 孙琦
   photo: QiSun.jpg
   info: 博士研究生
-  url: sunqi
+  url: https://sunqijlu.github.io/JLU-sq/
   group: 1
   
 - name: 赵潇涵
@@ -79,7 +79,7 @@
 - name: 刘庆
   photo: QingLiu.jpg
   info: 博士研究生
-  url: liuqing
+  url: https://1nmsl1.github.io/JLU-lq/
   group: 1
 
 - name: 许广璐
@@ -103,7 +103,7 @@
 - name: 董文川
   photo: WenchuanDong.jpg
   info: 硕士研究生
-  url: dongwenchuan
+  url: https://faiujfbasjfbasfnbas.github.io/JLU-dwc/
   group: 9
   
 - name: 蓝升
@@ -115,7 +115,7 @@
 - name: 潘晓娟
   photo: XiaojuanPan.jpg
   info: 硕士研究生
-  url: panxiaojuan
+  url: https://pxj2417136118.github.io/JLU-pxj/
   group: 9
   
 - name: 王尧尧
