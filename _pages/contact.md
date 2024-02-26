@@ -1,6 +1,6 @@
 ---
 title: "吉林大学建设工程学院张文教授团队 - 联系我们"
-layout: textlay
+layout:   gridlay
 excerpt: "Contact."
 sitemap: false
 permalink: /contact/
