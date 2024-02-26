@@ -20,10 +20,63 @@ sass:
   sass_dir: _sass
 
 # Conversion
-markdown: GFM
+# markdown: GFM
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+
+markdown:           kramdown
+
+# Highlighter
+highlighter:        rouge
+
+# Navigation
+nav:
+  - name:           "home"
+    href:           "/"
+  - name:           "about"
+    href:           "/about"
+  - name:           "publications"
+    href:           "/publication"
+  - name:           "people"
+    href:           "/people"
+  # - name:           "blog"
+    # href:           "/blog"
+#   - name:           "abstracts"
+#     href:           "/abstracts"
+  - name:           "lab teachings"
+    href:           "/presentations"
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+  -
+    scope:
+      path:         ""
+      type:         "people"
+    values:
+      layout:       "profile"
+
+
+collections:
+  people:
+    output: true
+    permalink: /people/:title/index.html
 
