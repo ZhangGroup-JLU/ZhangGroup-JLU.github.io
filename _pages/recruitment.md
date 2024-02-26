@@ -1,6 +1,6 @@
 ---
 title: "吉林大学建设工程学院张文教授团队 - 招募令"
-layout: textlay
+layout: gridlay
 excerpt: "吉林大学建设工程学院张文教授团队 - 招募令"
 sitemap: false
 permalink: /recruitment/
